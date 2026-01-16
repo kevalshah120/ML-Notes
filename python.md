@@ -1,4 +1,4 @@
-## General and important rules python specific
+# General and important rules python specific
 
 * There is no length limit for identifiers in python
 * **Interning** is an optimization where Python reuses certain objects
